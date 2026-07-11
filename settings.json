@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IlluminaSword.aternos.me:62467",
-    "port": 27586,
+    "ip": "IlluminaSword.aternos.me",
+    "port": 62467,
     "version": "",
     "try-creative": false
   },
